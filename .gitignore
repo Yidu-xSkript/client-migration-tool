@@ -1,0 +1,9 @@
+CLAUDE.md
+SCHEMA.md
+SOUL.md
+# Ignore the .env file which contains sensitive information
+.env
+# Ignore the node_modules directory which contains installed dependencies
+node_modules/
+# Ignore log files
+*.log
