@@ -7,3 +7,5 @@ SOUL.md
 node_modules/
 # Ignore log files
 *.log
+ARCHITECTURE.md
+DATA_IMPORT_PLAN.md
